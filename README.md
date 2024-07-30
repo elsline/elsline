@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Ahmed Elsline</h1>
-<h3 align="center">With two years of experience, I have gone through many experiences and expertise that have led to making my knowledge of the world of web development more solid, distinctive, and creative, and how to exploit old and modern technologies to create a modern, professional, and reliable website.</h3>
+<h1 align="left">Hi 👋, I'm Ahmed</h1>
+<h3 align="left">With two years of experience, I have gone through many experiences and expertise that have led to making my knowledge of the world of web development more solid, distinctive, and creative, and how to exploit old and modern technologies to create a modern, professional, and reliable website.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsline&label=Profile%20views&color=0e75b6&style=flat" alt="elsline" /> </p>
 
