@@ -11,6 +11,9 @@ With two years of experience, I have gone through many experiences and expertise
 <a href="https://www.linkedin.com/in/elsline/" target="_blank">
   <img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.png" />
 </a>
+
+
+  
 <a href="https://x.com/ELSLINEE" target="_blank">
   <img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/twitter.png" />
 </a>
