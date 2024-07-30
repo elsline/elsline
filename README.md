@@ -9,7 +9,11 @@ With two years of experience, I have gone through many experiences and expertise
 <!-- Social icons section -->
 <p align="center">
 
-<a href="https://www.linkedin.com/in/elsline/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/communication.png"/></a>
+<a href="https://www.linkedin.com/in/elsline/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/elsline/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/elsline/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/communication.png"/></a>
+<a href="https://www.linkedin.com/in/elsline/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/discord.png"/></a>
+<a href="https://www.linkedin.com/in/elsline/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="assets/logo (1).png"/></a>
 
 </p>
 
