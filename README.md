@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ahmed</h1>
-<h3 align="left">With two years of experience, I have gone through many experiences and expertise that have led to making my knowledge of the world of web development more solid, distinctive, and creative, and how to exploit old and modern technologies to create a modern, professional, and reliable website.</h3>
+<h3 align="left">With two years of experience in web development, I have built a strong foundation of knowledge and skills. I am adept at using both old and new technologies to create modern, professional, and reliable websites.</h3>
 
 <br>
 <h3 align="left">Connect with me:</h3>
